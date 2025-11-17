@@ -1,0 +1,17 @@
+{
+  "installationFolder": "J:\\James Local Files\\Work\\School\\Projects\\simplecamera\\openCV\\build\\intermediates\\prefab_package\\debug\\prefab",
+  "gradlePath": ":openCV",
+  "packageInfo": {
+    "packageName": "openCV",
+    "packageSchemaVersion": 2,
+    "packageDependencies": [],
+    "modules": [
+      {
+        "moduleName": "opencv_jni_shared",
+        "moduleHeaders": "J:\\James Local Files\\Work\\School\\Projects\\simplecamera\\openCV\\native\\jni\\include",
+        "moduleExportLibraries": [],
+        "abis": []
+      }
+    ]
+  }
+}

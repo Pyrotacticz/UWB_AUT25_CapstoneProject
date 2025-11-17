@@ -1,0 +1,3 @@
+J:/James Local Files/Work/School/Projects/simplecamera/openCV/.cxx/Debug/516f252b/arm64-v8a/CMakeFiles/opencv_jni_shared.dir
+J:/James Local Files/Work/School/Projects/simplecamera/openCV/.cxx/Debug/516f252b/arm64-v8a/CMakeFiles/edit_cache.dir
+J:/James Local Files/Work/School/Projects/simplecamera/openCV/.cxx/Debug/516f252b/arm64-v8a/CMakeFiles/rebuild_cache.dir

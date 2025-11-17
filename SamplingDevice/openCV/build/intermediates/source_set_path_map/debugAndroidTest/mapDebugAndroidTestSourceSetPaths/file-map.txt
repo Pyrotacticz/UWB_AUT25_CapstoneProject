@@ -1,0 +1,5 @@
+org.opencv.test.openCV-androidTest-0 J:\James Local Files\Work\School\Projects\simplecamera\openCV\build\generated\res\resValues\androidTest\debug
+org.opencv.test.openCV-mergeDebugAndroidTestResources-1 J:\James Local Files\Work\School\Projects\simplecamera\openCV\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+org.opencv.test.openCV-mergeDebugAndroidTestResources-2 J:\James Local Files\Work\School\Projects\simplecamera\openCV\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+org.opencv.test.openCV-debugAndroidTest-3 J:\James Local Files\Work\School\Projects\simplecamera\openCV\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+org.opencv.test.openCV-debug-4 J:\James Local Files\Work\School\Projects\simplecamera\openCV\build\intermediates\packaged_res\debug\packageDebugResources
