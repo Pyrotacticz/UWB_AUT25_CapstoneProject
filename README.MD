@@ -1,111 +1,88 @@
 # Multi-Project Repository
 
 This repository contains two projects housed in a single directory. Each
-project is independent and includes its own source code, build steps,
-and usage instructions.
+project is independent and includes its own source code and usage instructions.
+
+Note: This is the capstone project for UWB MSCSSE program. This project
+is entired used for educational purposes.
+
+NOTE FOR STUDENTS:
+MAKE SURE TO KEEP UP WITH YOUR PROFESSOR. DO IT LIKE YOU ARE DOING A PROJECT BY YOURSELF
+EXCEPT EVERY WEEK YOU NEED TO UPDATE YOUR PROFESSOR WITH ANY STATUS CHANGES OR UPDATES.
+GOOD LUCK. I BELIEVE IN YOU.
+
+NOTE FOR USAGE:
+I think these repos can be copied to the respective locations and opened as new projects
+in Unity and Android. Unity may require the download of the Vuforia framework and Android
+requires the OpenCV library.
 
 ------------------------------------------------------------------------
 
 ## 📁 Repository Structure
 
     root/
-    │── project-one/
-    │   ├── src/
-    │   ├── assets/
-    │   ├── README.md (optional for subproject)
+    │── MainARDevice/
+    │   ├── Vuforia2022.3.62/
     │   └── ...
     │
-    │── project-two/
-    │   ├── src/
-    │   ├── assets/
-    │   ├── README.md (optional for subproject)
+    │── SamplingDevice/
+    │   ├── app/
+    │   ├── gradle/
+    │   ├── openCV/
     │   └── ...
     │
     └── README.md  <-- (this file)
 
 ------------------------------------------------------------------------
 
-# 📦 Project One
+# 📦 Main AR Device
 
-A short description of **Project One** --- what it does, its purpose,
-and any important context.
+The Main AR Device handles the integration of the AR object into the
+real-world environment and sampling the localized area of which the AR object
+is to be placed in.
 
-## ✨ Features (Project One)
+## ✨ Features
 
--   Feature 1\
--   Feature 2\
--   Feature 3
+-   Detect Planes\
+-   Place AR Objects\
+-   Integrate Realistic Illumination to AR Objects.
 
-## 🔧 Installation (Project One)
+## 🧩 Configuration
 
-``` bash
-cd project-one
-npm install
-# or: pip install -r requirements.txt
-```
+    Frameworks and Versions used:
+        Unity 2022.3.62 for Android
+        Vuforia Engine 11.1.3
 
-## 🚀 Usage (Project One)
-
-``` bash
-cd project-one
-npm start
-# or: python main.py
-```
-
-## 🧩 Configuration (Project One)
-
-    API_KEY=your-api-key
-    OPTION_FLAG=true
+    Models and Files used:
+        Coffee Cup PBR by AK STUDIO ART
+        Corkboard & Desk by Cloube Works
+        Detailed ballpoint pens by Simon Serge Pasi
+        Household props by Maximalist
+        Realistic Mobile Car #26 by Surdov Vadym
+        Shadow Receiver URP by Dev Dunk Studio
+        White Porcelain Dish Set Demo by Stefan
+        Wooden english antique chair by diapant
+        Wooden Robots SP by DJINGAREY
 
 ------------------------------------------------------------------------
 
-# 📦 Project Two
+# 📦 Sampling Device
 
-A short description of **Project Two** --- what it does, its purpose,
-and unique functionality.
+The Sampling Device handles sampling the real-world environment capturing
+detected bright spots and communicating that information to the
+Main AR Device.
 
-## ✨ Features (Project Two)
+## ✨ Features
 
--   Feature A\
--   Feature B\
--   Feature C
+-   Real-time image capture\
+-   Light source estimation processing\
+-   Data communication to Main AR Device
 
-## 🔧 Installation (Project Two)
+## 🧩 Configuration
 
-``` bash
-cd project-two
-npm install
-# or: pip install -r requirements.txt
-```
-
-## 🚀 Usage (Project Two)
-
-``` bash
-cd project-two
-npm start
-# or: python main.py
-```
-
-## 🧩 Configuration (Project Two)
-
-    SERVICE_URL=https://example.com
-    TOKEN=your-token
-
-------------------------------------------------------------------------
-
-# 🧪 Tests (Both Projects)
-
-``` bash
-# Project One
-cd project-one
-npm test
-# or: pytest
-
-# Project Two
-cd project-two
-npm test
-# or: pytest
-```
+    Applications used:
+        Android SDK
+        OpenCV Library
 
 ------------------------------------------------------------------------
 
@@ -120,9 +97,9 @@ npm test
 
 # 🗺 Roadmap
 
--   [ ] Add more automation\
 -   [ ] Improve documentation\
--   [ ] Add CI/CD pipelines
+-   [ ] Improve functionality\
+-   [ ] Help other students
 
 ------------------------------------------------------------------------
 
