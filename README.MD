@@ -43,8 +43,8 @@ is to be placed in.
 
 ## ✨ Features
 
--   Detect Planes\
--   Place AR Objects\
+-   Detect Planes
+-   Place AR Objects
 -   Integrate Realistic Illumination to AR Objects.
 
 ## 🧩 Configuration
@@ -74,8 +74,8 @@ Main AR Device.
 
 ## ✨ Features
 
--   Real-time image capture\
--   Light source estimation processing\
+-   Real-time image capture
+-   Light source estimation processing
 -   Data communication to Main AR Device
 
 ## 🧩 Configuration
@@ -88,29 +88,29 @@ Main AR Device.
 
 # 🤝 Contributing
 
-1.  Fork the repo\
-2.  Create a feature branch\
-3.  Commit your changes\
+1.  Fork the repo
+2.  Create a feature branch
+3.  Commit your changes
 4.  Open a pull request
 
 ------------------------------------------------------------------------
 
 # 🗺 Roadmap
 
--   [ ] Improve documentation\
--   [ ] Improve functionality\
+-   [ ] Improve documentation
+-   [ ] Improve functionality
 -   [ ] Help other students
 
 ------------------------------------------------------------------------
 
 # 📄 License
 
-Distributed under the MIT License.\
+Distributed under the MIT License.
 See `LICENSE` for more information.
 
 ------------------------------------------------------------------------
 
 # ❤️ Acknowledgements
 
--   Tools, frameworks, or libraries used\
+-   Tools, frameworks, or libraries used
 -   Contributors or inspiration sources
