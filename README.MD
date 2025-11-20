@@ -1,4 +1,4 @@
-# Multi-Project Repository
+# Realistic Illumination in Augmented Reality (AR)
 
 This repository contains two projects housed in a single directory. Each
 project is independent and includes its own source code and usage instructions.
